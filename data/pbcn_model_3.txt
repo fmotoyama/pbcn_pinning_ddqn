@@ -1,0 +1,1 @@
+{'pbcn_model': [[['(x[0] and x[1] and x[2] or x[1] and not x[2] and not x[0] or x[2] and not x[0] and not x[1]) ^ u[0]', '(x[0] and x[1] and x[2] or not x[2] and not x[0] or not x[0] and not x[1]) ^ u[0]'], [0.3, 0.7]], [['(x[0] or x[2]) ^ u[1]', '(x[0] or x[2] or not x[1]) ^ u[1]'], [0.3, 0.7]], [['(x[2] and not x[0] or x[1]) ^ u[2]'], [1]]], 'target_x': [False,  True,  True]}
